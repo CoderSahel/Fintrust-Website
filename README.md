@@ -8,7 +8,7 @@ This project was done in a hackathon: Hack4Bengal 2.0
 ## Team members worked on this project:
 1. Sahel Bej sahel22.vis@gmail.com
 2. Alok Paul alokpaul5584@gmail.com
-3. Snahanku Kara ayankarar67131@gmail.com
+3. Snahanku Karar ayankarar67131@gmail.com
 
 
 ## Getting Started with Create React App
